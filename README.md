@@ -2,7 +2,7 @@
 
 Yuanzhe Hu, Kinshuk Goel, Vlad Killiakov, [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
-[Full paper]()
+[Full paper](https://arxiv.org/abs/2506.06280)
 
 ## Introduction 📖
 FARMS (Fixed-Aspect-Ratio Matrix Subsampling) is a method that
