@@ -1,0 +1,9 @@
+torch
+torchvision
+adamp
+torch-optimizer
+numpy==1.22.2
+pandas==1.4.0
+scikit-learn
+matplotlib
+tqdm

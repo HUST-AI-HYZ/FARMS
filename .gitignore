@@ -1,0 +1,9 @@
+__pycache__/
+
+*.pyc
+*.cpython-38.pyc
+*.ckpt
+data/
+checkpoints/
+llm_weights/
+/
